@@ -5,7 +5,7 @@ This project was an introduction video for Duke Dhamaka, Duke University’s pre
 
 ## $\textsf{\color{lightgreen} Video}$
   <p align="center">
-   <a style="text-align: center;" href="https://www.dropbox.com/scl/fi/q7l7dh41s60y9vgseoizm/dukeIntroVideoDCD_v1_1080p.mov?rlkey=ypirg5umv144lzkaa8dybz43b&st=wk1ov3pg&dl=0">
+   <a style="text-align: center;" href="https://www.dropbox.com/scl/fi/dyos73eayj9lxkwtwc7nt/dukeIntroVideo_2025_DCD.mov?rlkey=liqpcokrolax8bfe8a4s1e5sg&st=ls6zsryn&dl=0">
     <img src="thumbnail.png" width="80%">
   </a>
   </p>
